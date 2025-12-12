@@ -1,0 +1,7 @@
+{
+  "name": "Huaxia Heritage H5",
+  "description": "A 15-page interactive journey through Chinese traditional culture featuring AI poetry, calligraphy, and music.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
